@@ -7,8 +7,6 @@ O projeto foi construido coma ajuda do canal GreatStack no YouTube, com opbjetiv
 
 ## Stack utilizada
 
-**Front-end:** CSS
-
-**Back-end:** HTML, JavaScript
+**Front-end:** HTML CSS JavaScript
 
 
